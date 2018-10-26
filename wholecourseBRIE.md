@@ -35,7 +35,7 @@ Between 1880 and 1940 \~570 000 Turks and \~60 000 Greeks left Bulgaria. Approxi
 
 *1881 Apr 27*: Prince Alexander Batenberg suspended the constitution. The bone of contention was the extent of the monarch’s power in the constitution. He was opposed by the Liberal party, who wanted larger role of the parliament. The Prince had the support of the Conservative party and internationally by Russia, as well as Germany, Austria-Hungary and Great Britain. After that Batenberg was ruling by decrees and there was no prime minister.
 
-*1883 Sep*: The constitution was restored. There were internal tensions between the supporters of Batenberg that were related to the building of a new railroad. On one hand were the Conservative party, on the other there was the Russian lobby. To resist Russian interests, the Prince and the Conservatives sought support from the Liberals. Batenberg promised to restore the constitution if Liberals supported some changes that limited voting rights and introduced a bicameral parliament. As a result the Liberal party split into two - around Dragan Tsankov, who supported the compromise, and around Petko Karavelov, who didn’t. Karavelov’s party wan the elections and reinstalled the original constitution in 1886.
+*1883 Sep*: The constitution was restored. There were internal tensions between the supporters of Batenberg that were related to the building of a new railroad. On one hand were the Conservative party, on the other there was the Russian lobby. To resist Russian interests, the Prince and the Conservatives sought support from the Liberals. Batenberg promised to restore the constitution if Liberals supported some changes that limited voting rights and introduced a bicameral parliament. As a result the Liberal party split into two - around Dragan Tsankov, who supported the compromise, and around Petko Karavelov, who didn’t. Karavelov’s party won the elections and reinstalled the original constitution in 1886.
 
 *1885 Sep*: Unification of Eastern Rumelia and the Principality of Bulgaria. Russia disapproved the Unification (even though Russia signed the Tophane Agreement on 24 March 1886 together with the other great European powers, which lead to the official recognition of the Unification) .
 
@@ -79,7 +79,7 @@ Between 1880 and 1940 \~570 000 Turks and \~60 000 Greeks left Bulgaria. Approxi
 
 *1923 Sep*: Uprisings by supporters of the Communist party. The number of people killed varies between 1000 and 5000 according to different estimates.
 
-*1925 Apr 16*: In an assassination attempt on king Boris III and high ranking government officials and military officers the communists kill with a bomb 134 people in the church “Sveta Nedelya”. Approximately 500 are injured. Later that day the government declared a state of marshal law which remained in force until October. Approximately 500 people died as a result of the government measures after that.
+*1925 Apr 16*: In an assassination attempt on king Boris III and high ranking government officials and military officers the communists killed with a bomb 134 people in the church “Sveta Nedelya”. Approximately 500 were injured. Later that day the government declared a state of marshal law which remained in force until October. Approximately 500 people died as a result of the government measures after that.
 
 *1934* May 19: The Zveno organization and the Military Union organization overthrew the government of the Popular Bloc coalition. Political parties were banned and the constitution was suspended. The new prime minister became Kimon Georgiev from Zveno. However an year later the King managed to remove Georgiev and to replace him with Andrey Toshev, who was loyal to him. After that some of the officers from the Military Union try to plot against Boris III and remove him from power, while others declare their loyalty to him. The Zveno organization moves into opposition of the monarchy.
 
@@ -100,49 +100,38 @@ Maddison table:
 |Yugoslavia|843|1057|1364|1273|
 |Uruguay|2147|3136|3847|3462|
 
-> *note*: Three strands to the debate about growth since the end of the 19th century: *convergence* to the economic core, although moderate; *divergence* - falls in productivity and digression from a market to a subsistence agricultural economy (revisionist view); *middle ground*. Reasion for differences in opinion is lack of consistent quantitative evidence to establish the growth rates.
+> *note*: Three strands to the debate about growth since the end of the 19th century: *convergence* to the economic core, although moderate; *divergence* - falls in productivity and digression from a market to a subsistence agricultural economy (revisionist view); *middle ground*. A reason for differences in the opinions is the lack of consistent quantitative evidence to establish the growth rates.
 >
-> *note*: Industrial share of national output was \~ 15% almost for the whole period. The agricultural share - between 70% and 80%.
+> *note*: Industrial **share of national output** was \~ 15% almost for the whole period. The agricultural share - between 70% and 80%.
 >
-> *note*: Break with the Ottoman Empire resulted in restrited domestic markets, redistribution of land into small landholdings. Retreat from market relations to subsistence farming in the sector is a widely held view by Bulgarian historians.
+> *note*: Break with the Ottoman Empire resulted in restrited domestic **markets**, redistribution of land into small landholdings. Retreat from market relations to subsistence farming in the sector is a widely held view by Bulgarian historians.
 >
-> *note*: Initially many small agricultural producers went bankrupt due to high interest rates and low prices of the final produce. Things improved by the beginning of the XX century, as interest rates fell and food prices increased. On average agricultural production grew by 3% till 1911. It was the result mostly of using new land and to a smaller extent of increased productivity. Average yield for grain was \~ 100 kg / decare. Cooperatives were popular among small producers. After the wars agriculture still employed most of the population \~ 3/4. Total land used increased by 10% in the late 1920s relative to 1911. Average yield increased by 20–45% for cereals, 45–60% for orchards. The volume of agricultural produce was below the prewar level until 1925, but by the end of the 1930s it was 70% higher (with increased population of 43%). While grain still had the largest share, the shares of tobacco, cotton, sugar beet increased. The mechanization of the sector was low, even though the situation were improving - by 1944 there were 4500 tractors. There were \~ 3500 agriculture cooperatives that involved around 1 000 000 people.
+> *note*: Initially many small agricultural producers went bankrupt due to high interest rates and low prices of the final produce. Things improved by the beginning of the XX century, as interest rates fell and food prices increased. On average **agricultural production** grew by 3% till 1911. It was the result mostly of using new land and to a smaller extent of increased productivity. The average grain yield was \~ 100 kg / decare. Cooperatives were popular among small producers. After the wars agriculture still employed most of the population \~ 3/4. Total land used increased by 10% in the late 1920s relative to 1911. Average yield increased by 20–45% for cereals, 45–60% for orchards. The volume of agricultural produce was below the prewar level until 1925, but by the end of the 1930s it was 70% higher (with increased population of 43%). While grain still had the largest share, the shares of tobacco, cotton, sugar beet increased. The mechanization of the sector was low, even though the situation was improving - by 1944 there were 4500 tractors. There were \~ 3500 agriculture cooperatives that involved around 1 000 000 people.
 >
-> *note*: Sectors with some growth outside agriculture were usually state protected industries - mining, metal works, electricity production, chemical products. State supported enterprises in 1909–1939 increased 4 times, employees - 3 times.
+> *note*: Sectors with some growth outside agriculture were usually **state protected industries** - mining, metal works, electricity production, chemical products. State supported enterprises in 1909–1939 increased 4 times, employees - 3 times.
 >
-> *note*: By 1897 there were only 70 industrial enterprises with more than 10 employees. In 1911 there number reached 345 and employed in total 15000 workers. In 1896 the local industry (without crafts and services) supplied 13% of the internal consumption of industrial goods, whereas in 1911 - 43%. This was the result of improved transport infrastructure, increased tariffs (14–65%), other forms of legal protection, lower interest rates with the development of a modern banking system. However the volume of industrial production per capita was 20–45 times lower compared to industrialized countries. After the wars the Bulgarian industry underwent a crisis, but the depreciation of the lev that went on until 1923 stimulated investment. The volume of industrial produce grew by 7.7% on average in 1921–1931 and fell to 5.3% in 1931–1941, which was higher than most countries. Industrial production was relatively inefficient and by the outbreak of the WW II the sources of growth were to a large extent exhausted. Labour productivity in the industrial sectors was 2 times lower in 1911 and 4 times lower in 1939 relative to that of the United States.
+> *note*: By 1897 there were only 70 industrial enterprises with more than 10 employees. In 1911 there number reached 345 and employed in total 15000 workers. In 1896 the **local industry** (without crafts and services) supplied 13% of the internal consumption of industrial goods, whereas in 1911 - 43%. This was the result of improved transport infrastructure, increased tariffs (14–65%), other forms of legal protection, lower interest rates with the development of a modern banking system. However the volume of industrial production per capita was 20–45 times lower compared to industrialized countries. After the wars the Bulgarian industry underwent a crisis, but the depreciation of the lev that went on until 1923 stimulated investment. The volume of industrial produce grew by 7.7% on average per year in the period 1921–1931. Industrial production was relatively inefficient and by the outbreak of the WW II the sources of growth were to a large extent exhausted. Labour **productivity** in the industrial sectors was 2 times lower in 1911 and 4 times lower in 1939 relative to that of the United States.
 >
-> *note*: Finance, industry and political interests were often mixed and this led to inefficiencies and corruption. As an example railroad construction was twice as expensive per km in Bulgaria than in Greece and Romania. Example: Racho Petrov, who was prime minister in the beginnig of XX c., had also stakes in the company that built the railroad line Radomir-Kyustendil. Many of these were companies that were somehow related to bank “Girdap”.
+> *note*: Finance, industry and political interests were often mixed and this led to inefficiencies and **corruption**. As an example railroad construction was twice as expensive per km in Bulgaria than in Greece and Romania. Example: Racho Petrov, who was prime minister in the beginnig of XX c., had also stakes in the company that built the railroad line Radomir-Kyustendil. Many of these were companies that were somehow related to the bank “Girdap”.
 >
-> *note*: The volume of external trade doubled in 1906–1911 relative to 1886–1890. Measured per capita, it was still 2–7 times lower than the developed countries. The main export good was grain. The trade balance was negative. The balance of payments was adjusted by foreign loans. After the wars the trade volume fell, as it did during the crisis of 1929–1933. However by the end of the period it was three times higher than the prewar level (at constant prices) Bulgaria exported mostly tobacco, fruits, vegetables, eggs and chickens. The imports changed as the share of investment goods rose. In the 1930s Bulgaria traded mostly with Germany using clearing agreements where it had a favourable balance.
+> *note*: The volume of **external trade** doubled in 1906–1911 relative to 1886–1890. Measured per capita, it was still 2–7 times lower than the developed countries. The main export good was grain. The trade balance was negative. The balance of payments was adjusted by foreign loans. After the wars the trade volume fell, as it did during the crisis of 1929–1933. However by the end of the period it was three times higher than the prewar level (at constant prices). Bulgaria exported mostly tobacco, fruits, vegetables, eggs and chickens. The imports changed as the share of investment goods rose. In the 1930s Bulgaria traded mostly with Germany using clearing agreements where it had a favourable balance.
 >
-> *note*: Before the Balkan wars the average wage was between 34 and 70 levs, whereas the prices of bread were 0.23 - 0.30 per kg and for meat 0.46–0.98 per kg. The workday was more than 10 hours. In 1919 was introduced 8-hour work day by law, but usually it was ignored. In 1939 the real wages for the Bulgarian workers were 2–4 lower than those in the deveoped countries.
+> *note*: Before the Balkan wars the average **wage** was between 34 and 70 levs, whereas the prices of bread were 0.23 - 0.30 per kg and for meat 0.46–0.98 per kg. The workday was more than 10 hours. In 1919 was introduced an 8-hour work day by law, but usually it was ignored. In 1939 the real wages for the Bulgarian workers were 2–4 lower than those in the deveoped countries.
 
-*1891*: “First Bulgarian Chamber of Commerce” established in Ruse.
-
-*1894*: Customs duties were increased from 5–6% to 8–14%.
-
-*1895*: Law for the encouragement of the local industry.
-
-*1904*: New customs tariff.
-
-*1905*: Law for the stimulation of local industry and trade
-
-> *note*: during the Great Depression agricultural production shrank by 18% and the industrial sector shrank by 34%.
 
 #### Money, banking and finance
 
 *1879*: establishment of the Bulgarian National Bank (BNB). However it was more a commercial bank than a central bank.
 
-*1880*: the Bulgarian lev was adopted as a national currency. Initially issueing rights belonged to the state, not to BNB.
+*1880*: the Bulgarian lev was adopted as a national currency. Initially issuing rights belonged to the state, not to BNB.
 
-*1881*: first stock company in Bulgaria - savings association “Girdap” established in Ruse with initial capital of only 750 lv. Between 1912 and 1918 it had control over capital of 83,97 million lv. Existed until 1925. Since 1911 its director had been Boncho Bonev, a former chairman of BNB.
+*1881*: first stock company in Bulgaria - savings association “Girdap” was established in Ruse with initial capital of only 750 lv. Between 1912 and 1918 it had control over capital of 83,97 million levs. Existed until 1925. Since 1911 its director had been Boncho Bonev, a former chairman of BNB.
 
 *1885 - by*: the BNB had full issuing rights and was involved in the provision of credit to customers. This should have ended by 1928, but it retained 10% of the direct credit for some time after that.
 
 *1891*: first insurance stock company in Bulgaria established in Ruse.
 
-*1903*: reform in commercial legislation, which allowed foregin residents to sit in the controlling commitees of joint stock companies.
+*1903*: reform in commercial legislation, which allowed foregin residents to sit in the controlling committees of joint stock companies.
 
 *1907*: the Law on manufacturing credit. A step towards establishing BNB as “the bank of banks”.
 
@@ -152,15 +141,15 @@ Maddison table:
 
 *1924*: new law on BNB. New emissions of money could be no longer backed by silver - only by gold.
 
-*1926*: new law on BNB. Specified explicitly the monopoly right of banknote emmissions and gave it responsibility to maintain stability of the lev and to regulate the money supply in addition to facilitating payments in the economy. The law forbade BNB from extending credits to the state, as well as credits without colateral.
+*1926*: new law on BNB. Specified explicitly the monopoly right of banknote emmissions and gave it responsibility to maintain the stability of the lev and to regulate the money supply in addition to facilitating payments in the economy. The law forbade BNB from extending credits to the state, as well as credits without colateral.
 
 *1928*: new law on BNB. The bank had to stop commercial operations. It became a modern central bank.
 
-*1926*: the Refugee Settlement Loan (foreign)
+*1926*: the Refugee Settlement Loan (foreign). Contracted with West European commercial banks with the help of the League of Nations. It was used to provide land and houses to accomodate the refugees after the wars. Some of the money went to infrastructure development. Lyapchev's government staked as collateral a part of the tax revenues. As a condition for the loan the League of nation got some control over the financial policy of the country.
 
-*1928*: the Stabilisation Loan (foreign)
+*1928*: the Stabilisation Loan (foreign). Its goal was to capitalize BNB and to provide convertibility to the lev. 
 
-*1929 - by*: a total of 13 large foreign banks accounted for some 40% of the private bank capital of Bulgaria
+*1929 - by*: a total of 13 large foreign banks accounted for some 40% of the private bank capital in Bulgaria.
 
 *1930*: more than 150 banks in existence. By 1937 their number dropped to 80.
 
@@ -168,7 +157,7 @@ Maddison table:
 
 *1931–1934*: foregin banking capital fell from 20% of total active capital to less than 7%.
 
-*1932 - by*: three laws were passed to protect banks from liquidity problems
+*1932 - by*: three laws were passed to protect banks from liquidity problems.
 
 > *note*: insider lending: shareholders, directors of officers of the bank or their familiy or their firms increased the problems, caused by the depression.
 
@@ -191,15 +180,15 @@ Table: Roads in Bulgaria
 |1918|6100 km|4050 km|
 |1939|19 553 km||
 
-> *note*: Roads were usually in poor condition. Road building was boosted by the obligatory labour service after WW I.
+> *note*: **Roads** were usually in poor condition. Road building was boosted by the obligatory labour service after WW I.
 >
-> *note*: The number of motor vehicles increased from 3402 in 1935 to 10 013 in 1939. Bulgaria had two times less automobiles per capita compared to Romania and Yugoslavia.
+> *note*: The number of **motor vehicles** increased from 3402 in 1935 to 10 013 in 1939. Bulgaria had two times less automobiles per capita compared to Romania and Yugoslavia.
 >
-> *note*: Foreign trade shifted routes from the Danube to the Black Sea. Port Burgas was opened in 1903 and port Varna was open for exploitation in 1906. The river ports in Ruse and Svishtov were rebuilt and opened in 1912 and 1913.
+> *note*: Foreign trade shifted routes from the Danube to the Black Sea. Port Burgas was opened in 1903 and port Varna was open for exploitation in 1906. The river **ports** in Ruse and Svishtov were rebuilt and opened in 1912 and 1913.
 >
-> *note*: Telegraf service started (in the Principality of Bulgaria) with the inherited from the Russian army 26 telegraf stations and 1630 km line. In 1900 the telegraf-and-postal stations were 225, in 1919 - 420, in 1931 - 575, in 1939 - 806. The number of post and packages sent increased from 17,8 million in 1900 to 72,5 million in 1912 to 192 million in 1932. Bulgaria compared well with other Balkan countries but lagged behind developed countries significantly (17 packages per person for 1925, compared with more than 100 for Western European countries). Many people complained about the quality of the service in principle and about intrusion in the privacy of the correspondence in particular. Working conditions in the services were usually poor and capital investments were low.
+> *note*: **Telegraf** service started (in the Principality of Bulgaria) with the inherited from the Russian army 26 telegraf stations and 1630 km line. In 1900 the telegraf-and-postal stations were 225, in 1919 - 420, in 1931 - 575, in 1939 - 806. The number of letters and **postal packages** sent increased from 17,8 million in 1900 to 72,5 million in 1912 to 192 million in 1932. Bulgaria compared well with other Balkan countries but lagged behind developed countries significantly (17 packages per person for 1925, compared with more than 100 for Western European countries). Many people complained about the quality of the service in principle and about intrusion in the privacy of the correspondence in particular. Working conditions in the services were usually poor and capital investments were low.
 >
-> *note*: The first intercity phone line was set up between Sofia and Plovdiv in 1892, followed by the line between Sofia and Ruse in 1985. Until 1893 phones were used only by state representatives. In 1893 opened a public phone station, and their number increased to 34 till 1911. In 1938 120 towns and villages had public phone stations. In the 1930s Bulgaria had phone connection with 25 European countries and with North America. In 1924 phone talks per capita in Bulgaria were 3.5, compared to 4 for Romania and more than 20 for Germany, UK, and Belgium.
+> *note*: The first intercity **phone** line was set up between Sofia and Plovdiv in 1892, followed by the line between Sofia and Ruse in 1895. Until 1893 phones were used only by state representatives. In 1893 opened a public phone station, and their number increased to 34 till 1911. In 1938 120 towns and villages had public phone stations. In the 1930s Bulgaria had phone connection with 25 European countries and with North America. In 1924 phone talks per capita in Bulgaria were 3.5, compared to 4 for Romania and more than 20 for Germany, UK, and Belgium.
 
 |year|phones|phone lines|
 |:---|:-----|:----------|
@@ -209,11 +198,11 @@ Table: Roads in Bulgaria
 |1930|17 373|13 445,0 km|
 |1939|29 088|21 255,0 km|
 
-*1927*: Civilian airtravel started as Sofia became a mid-station in the airline Paris-Istanbul.
+*1927*: Civilian **airtravel** started as Sofia became a mid-station in the airline Paris-Istanbul.
 
-*1930*: Radio emissions were broadcasted on a regular basis.
+*1930*: **Radio** emissions were broadcasted on a regular basis.
 
-|year|radios|
+|year|radio sets|
 |:---|:-----|
 |1930|1 341|
 |1934|7 899|
@@ -221,7 +210,7 @@ Table: Roads in Bulgaria
 |1940|90 025|
 |1943|174 465|
 
-In 1938 Bulgaria had 7 radios per 1000 people, while Italy had 23, Austria - 92, France - 112 and Germany - 133.
+In 1938 Bulgaria had 7 radio sets per 1000 people, while Italy had 23, Austria - 92, France - 112 and Germany - 133.
 
 #### Health, social insurance and social policy
 
@@ -241,63 +230,68 @@ In 1938 Bulgaria had 7 radios per 1000 people, while Italy had 23, Austria - 92,
 
 *1880s and 1890s*: Various institutes were established to protect from epidemies.
 
-*1903*: New law on public health. Health provision became more decentralized. Obligatory vacciantion for measles.
+*1903*: New law on public health. Health provision became more decentralized. Obligatory vaccinаtion for measles.
 
-> *note*: In 1903 80% of the population lived in settlements without a doctor. In 1912 there were 670 doctors (15 per 100 000), of them 193 were practicing privately; 170 dentists (almost all at private practice); 63 state, 3 municipality and 5 private hospitals. Hospitals were short of doctors, equipment, and mediction. In 1905 state budget expenses for health amounted only to 0,69 levs per person.
+> *note*: In 1903 80% of the population lived in settlements without a doctor. In 1905 state budget expenses for health amounted only to 0,69 levs per person. In 1912 there were 670 doctors (15 per 100 000), of them 193 were practicing privately (while the number of doctors subsequently grew, usually less than half were practicing privately for the whole period); 170 dentists (almost all at private practice); 63 state, 3 municipality and 5 private hospitals. Hospitals were short of doctors, equipment, and medication.
 
-*1905*: Law unifying all existing insurance funds under the control of the so-called Department of labour.
+| year | state hospitals | private hospitals | s.h. beds | p.h. beds | doctors | dentists |
+|-----:|----------------:|------------------:|----------:|----------:|--------:|---------:|
+| 1912 |              63 |                 5 |           |           |     670 |      170 |
+| 1923 |              83 |                 6 |           |           |    1011 |      208 |
+| 1934 |              63 |                74 |      6893 |      1432 |    2607 |      786 |
+| 1939 |              61 |                94 |      7462 |      2270 |    3127 |     1206 |
 
-*1918*: Obligatory insurance for all workers and servants in state and municipality enterprises. 1% installments by each - worker, employer, state.
+*1905*: Law unifying all existing insurance funds under the control of the so-called Department of Labour.
 
-> *note*: In 1923 there were 83 state and 6 private hospitals; 1011 doctors; 208 dentists.
+*1918*: Obligatory insurance for all workers and servants in state and municipality enterprises. 1% installments by each party - worker, employer, state.
 
-*1924*: Law on public insurence. 2/3 of the \_Fund for public insurance\_ was filled by employers and the state, 1/3 - by the employees.
+*1924*: Law on public insurence. 2/3 of the *Fund for public insurance* was filled by employers and the state, 1/3 - by the employees.
 
 > *note*: Choice of doctors was entirely free, but usually only young doctors wanted to work with the fund.
 
-*1929*: Law on public insurances. Introduced a regulated free choice of the doctor. Doctors were paid, medicine expenses were covered only for medicines from a predetermined list. In 2 years the system run the costs of the system exceeded the revenues 2,5 times.
+*1929*: Law on public insurances. Introduced a regulated free choice of the doctor. Doctors were paid, medicine expenses were covered only for medicines from a predetermined list. In 2 years time the costs to run the system exceeded the revenues by 2,5 times.
 
-*1929*: Law on people’s health. Medical services can be offered only at specialized places, not at homes. A lot of services at working organizations created as a result.
+*1929*: Law on people’s health. Medical services could be offered only at specialized places, not at homes. A lot of services at working organizations were created as a result.
 
-> *note*: In 1934 there were 63 state hospitals (with 6893 beds and 74 private hospitals (with 1432 beds); 2607 doctors (1237 in private practice); 786 dentists.
+*1934*: Doctors were no longer freely chosen. Those that worked with the fund were appointed. The deficit in the system however continued to increase. In 1939 there was a return to the free choice of a doctor.
 
-*1934*: Doctors were no longer freely chosen. Those that work with the fund are appointed. The deficit in the system however continued to increase. In 1939 - return to free choice of the doctor.
-
-> *note*: According to a comment from 1936 less than half of the insured actually made any payments. The state was especially poor in this respect. It even borrowed money from the fund for other purposes.
+> *note*: According to a comment from 1936 less than half of the insured actually made any payments. The state was especially umreliable in this respect. It even borrowed money from the fund for other purposes.
 >
-> *note*: In 1939 there were 61 state hospitals (with 7462 beds) and 94 private hospitals (with 2270 beds); 3127 doctors (of them 1222 in private practice); 1206 dentists.
 
 *1940*: General (and obligatory) immunization against typhus. Before that (since 1924) it included only risky areas and was voluntary.
 
 > *note*: Tuberculosis was the most dangerous disease during the period. It 1934 17,7 per 10 000 people died of tuberculosis, 16,3 in 10 000 of heart disease, 15,2 in 10 000 of pneumonia.
 
-*1941*: Institute for public insurance. A semi-autonomous organization, governed by representatives of the insured, employers, and the ministry of trade, industry and labour.
+*1941*: Institute for public insurance. A semi-autonomous organization, governed by representatives of the insured, employers, and the Ministry of trade, industry and labour.
 
-*1943*: All state servants and their families can benefit from free medical services in state hospitals. In private hospitals their expenses are covered at 50%.
+*1943*: All state servants and their families could benefit from free medical services in state hospitals. In private hospitals their expenses were covered at 50%.
 
-*note*: People with health insurance increased from 34 000 in 1919, through 130 000 in 1925, to 250 000 in 1939.
+> *note*: People with health insurance increased from 34 000 in 1919, through 130 000 in 1925, to 250 000 in 1939.
 
-*note*: People using free health services (poor people and some state servants) increased from 15 000 in 1903 to 1 180 000 in 1941 (expanded to include pregnant women and children bellow school age).
+> *note*: People using free health services (poor people and some state servants) increased from 15 000 in 1903 to 1 180 000 in 1941 (expanded to include pregnant women and children bellow school age).
+
+> *note*: The social insurance system was beset by problems due to frequent changes in its arrangement, lack of experience managing it and inefficient investment decisions.
 
 ### Public infrastructure
 
-*note*: Sanitation was poor, especially in the beginning of the period. In 1921 only in 11 towns there was a modern water-carrying system. Elsewhere it was made of clay tubes, if there was one at all. By the end of 1939 57 out of 97 towns were fully supplied with water, 15 - partially. Out of 4289 villages only 380 were fully and 596 were partially supplied with modern water-carrying systems. By the end of the period only 10 towns had canalization and it was usually incomplete.
+> *note*: Sanitation was poor, especially in the beginning of the period. In 1921 only in 11 towns there was a modern water-carrying system. Elsewhere it was made of clay tubes, if there was one at all. By the end of 1939 57 out of 97 towns were fully supplied with water, 15 - partially. Out of 4289 villages only 380 were fully and 596 were partially supplied with modern water-carrying systems. By the end of the period only 10 towns had canalization and it was usually incomplete.
 
-*note*: By the end of 1935 there was electricity in 238 settlements with a total population of 1 612 155 people, by 1937 - 331 settlements with a population of 1 867 287 people. However not all buildings in these settlements were electrified.
+> *note*: By the end of 1935 there was electricity in 238 settlements with a total population of 1 612 155 people, by 1937 - 331 settlements with a population of 1 867 287 people. However not all buildings in these settlements were electrified.
 
 ### Education
 
-*1889*: Higher pedagogical course. Poor students study for free.
+*1889*: Higher pedagogical course. Poor students could study for free.
 
 *1889*: Law on the establishment of a higher school.
 
-### LAW AND ORDER
+### Law and order
 
-*1889*: Law on the police. Police under the control of the respective civil authorities. Police officers had the right to 1 month vacation and retirement after 20 years of service with 2/3 of their salary (full pension for 20 years of service).
+*1889*: Law on the police. Police was under the control of the respective civil authorities. Police officers had the right to 1 month vacation and retirement after 20 years of service with 2/3 of their salary.
 
 *1889*: Law on inheritance.
 
 *1889*: Law on military service. Obligatory military service - 1 year for people with high-school education.
+
 
 People’s Republic of Bulgaria
 =============================
