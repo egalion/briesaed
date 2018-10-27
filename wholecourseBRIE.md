@@ -1,8 +1,7 @@
-Bulgaria - Social and Economic Development 1878–2007
-====================================================
+# Bulgaria - Social and Economic Development 1878–2007
 
-Bulgaria - 1978–1944. The Third Bulgarian Kingdom
--------------------------------------------------
+Bulgaria - 1878–1944. The Third Bulgarian Kingdom
+==================================================
 
 ### Political development
 
@@ -308,6 +307,8 @@ Periodization - based on the dynamics of the differenet parts of the system and 
 
 -   geopolitical changes
 
+Periods:
+
 -   First period 1944–1956: coming to power and taking control over society.
 
 -   Second period 1956–1986: destalinization and normalization of everyday life in the context of the absence of individual rights and freedoms.
@@ -317,17 +318,17 @@ Periodization - based on the dynamics of the differenet parts of the system and 
 Establishment of the communist regime and its opposition
 --------------------------------------------------------
 
-1944 - 9 Sep: New prime-minister Kimon Georgiev heading the government of the Fatherland Front. One week later the program of the new government is announced. It proclaims as its goals restoration of constitutional rights and improvement of the standard of living.
+1944 - 9 Sep: New prime-minister Kimon Georgiev heading the government of the Fatherland Front. One week later the program of the new government was announced. It proclaimed as its goals restoration of constitutional rights and improvement of the standard of living.
 
 > *note*: As a whole there was positive reception - pro-Russian feelings, no knowledge of the real situation in USSR, weak democratic culture.
 >
 > *note*: Initially some repressive laws were abolished.
 >
-> *note*: Soon however started mass arrests of people against whom no charges were pressed. There were also privately organized groups of communists which acted outside any institutions. Sometimes even the party’s leadership called for more moderate actions in the persecutions.
+> *note*: It didn't take long however before the start of mass arrests of people against whom no charges were pressed. There were also privately organized groups of communists acting outside any institutions. Sometimes even the party’s leadership called for more moderate actions in the persecutions.
 
-*1944 - 9 Sep*: Ministry of the propaganda was created.
+*1944 - 9 Sep*: The Ministry of the propaganda was created.
 
-*1944 - 30 Sep*: Law for the People’s court. Lasted from Dec 1944 till April 1945.11 122 were charged, 9 155 were convicted - 2 730 were sentenced to death and 1305 - for life.
+*1944 - 30 Sep*: Law for the People’s court. Lasted from Dec 1944 till April 1945.11 122 were charged, 9 155 were convicted - 2 730 were sentenced to death and 1 305 - for life.
 
 *1944 - 6 Oct*: Bulgaria started military actions against Nazi Germany.
 
@@ -337,15 +338,15 @@ Establishment of the communist regime and its opposition
 
 *1944 - 20 Oct*: A ceasefire signed with the Allies. Its provisions obliged Bulgaria to take part in the military actions against Germany and to cover most of the expenses of the Soviet army on Bulgarian territory.
 
-*1944 - 23 Nov*: A decree allowing military officers to be pardoned from the People’s court if they volunteer on the front. However it was repealed under the pressure of the Soviet authorities.
+*1944 - 23 Nov*: A decree allowing military officers to be pardoned from the People’s court if they volunteered on the front. However it was repealed under the pressure of the Soviet authorities.
 
 *1944 - Nov*: The Ministry of the propaganda started creating a list of “fascist literature”. Between 1945 and 1957 this list included \~ 7 000 titles.
 
 *1944 - 1 Dec*: Private persons were banned from issuing periodicals, the exception being Fatherland Front parties.
 
-*1944 - 20 Dec*: Law on prison camps. People can be incarcerated without sentences for up to 6 months, but there was a possibility for extension by an order of the Minister of Internal Affairs.
+*1944 - 20 Dec*: Law on prison camps. People could be incarcerated without sentences for up to 6 months, but there was a possibility for extension by an order of the Minister of Internal Affairs.
 
-*1945 - by spring*: 3 000 have been sent to the camps.
+*1945 - by spring*: 3 000 had been sent to the camps.
 
 *1945 - 26 Jan*: Law defending the people’s power. All forms of antigovernment activities were to be punished - from armed resistence to mere rumours.
 
@@ -353,9 +354,9 @@ Establishment of the communist regime and its opposition
 
 *1945 - Oct*: Communist members amounted to 400 000 (from only 14 000 a year ago).
 
-*1945*: Only civil marriage became legally binding. Church marriage relegated simply to ritual. Religious classes removed from schools.
+*1945*: Only civil marriage became legally binding. Church marriage was relegated simply to ritual. Religious classes were removed from schools.
 
-*1945 - Jan*: Nikola Petkov became the new leader of the Agrarian Union (member of the Fatherland Front). The old leader - G.M. Dimitrov was arrested later in April, but managed to escape in May and to hide in the American embassy.
+*1945 - Jan*: Nikola Petkov became the new leader of the Agrarian Union (member party of the Fatherland Front). The old leader - G.M. Dimitrov was arrested later in April, but managed to escape in May and to hide in the American embassy.
 
 *1945 - 22 Feb*: The Bulgarian Church was granted independent status by the Patriarchate of Constantinople.
 
@@ -365,17 +366,17 @@ Establishment of the communist regime and its opposition
 
 *1945 - 4 Nov*: Georgi Dimitrov returned from Moscow.
 
-*1945 - 18 Nov*: The elections were unilaterally won by the communists, as the opposition refused to participate in a situation considered not normal.
+*1945 - 18 Nov*: The elections were unilaterally won by the communists, as the opposition refused to participate in a situation they considered as not normal.
 
 > *note*: The new National Assembley adopted 250 laws in 9 months.
 
-*1945 - Dec*: Under pressure from USA and UK the government agrees to include to members of the opposition. However the posts offered were minor and they refused. The new government was formed without members of the opposition on 31 March 1946. It consisted of communists and other parties from the Fatherland front.
+*1945 - Dec*: Under pressure from USA and UK the government agreed to include members of the opposition. However the positions offered were minor and they refused. The new government was formed without members of the opposition on 31 March 1946. It consisted of communists and other parties from the Fatherland front.
 
 *1946 spring*: Court trials against members of the opposition from the Agrarian Union and the Social-Democrats, as well as IMRO.
 
-> *note*: The National Assembley voted a law for referendum about abolishing the monarchy (according to the constitution, this can be done only by a Great National Assembley).
+> *note*: The National Assembley voted a law for referendum about the abolishing of the monarchy (according to the constitution, this could be done only by a Great National Assembley).
 
-*1946*: Instruction on the question of admission to universities. Form then on the so-called Fatherland Front notes became necessary to study in university.
+*1946*: Instruction on the question of admission to universities. From then on the so-called Fatherland Front notes became necessary to study in university.
 
 *1946 May*: Georgi Dimitrov said in a speech that the Church had the right to exist for its historic contribution to preserving the Bulgarian national identity.
 
@@ -385,11 +386,11 @@ Establishment of the communist regime and its opposition
 >
 > *note*: Especially persecuted were Christians of various Protestant denominations who were accused of espionage. In 1949 four of them were sentenced to life imprisonment. Catholics were also persecuted. In 1952 four priests were executed.
 
-*1946 - 8 Sep*: 91% vote at the referendum. 92% support the republic. The royal family left Bulgaria on the next day.
+*1946 - 8 Sep*: 91% voted at the referendum. 92% supported the republic. The royal family left Bulgaria on the next day.
 
-*1946 - 15 Sep*: Bulgaria became People’s Republic of Bulgaria.
+*1946 - 15 Sep*: Bulgaria became the People’s Republic of Bulgaria.
 
-*1946 - 26 Oct*: In a pre-election speech Georgi Dimitrov categorically stated that the new power will not abolish the private property for peasants, manufacturers and the people of physical and mental labour.
+*1946 - 26 Oct*: In a pre-election speech Georgi Dimitrov categorically stated that the new power would not abolish the private property for peasants, manufacturers and the people of physical and mental labour.
 
 *1946 - 27 Oct*: Elections for a Great National Assembley (6-th). The Fatherland Front won 366 out of 465 seats. Despite repressions the opposition got 29% of the election votes.
 
@@ -403,11 +404,11 @@ Establishment of the communist regime and its opposition
 
 *1947 - 5 Aug*: Court trial against Nikola Petkov, who was charged with conspiracy. He was executed on 23 Sep.
 
-*1947 - Aug*: The Agrarian Union was banned. Its members of parliament were send to prison camps.
+*1947 - Aug*: The Agrarian Union was banned. Its members of parliament were sent to prison camps.
 
 *1947 - 22 Nov*: New Law on higher education. Departments of dialectical and historical materialism became obligatory in all higher schools.
 
-*1947 - 4 Dec*: The People’s Republic of Bulgaria adopted a new constitution. Principles - state direction of the economy based on planning principles. Private property was allowed, as long as it was acquired honestly and not used against society. The Bulgarians got the right to labour, vacation, education and pension. Right to assembly and formation of organizations was allowed, as long as it was not against the goals of the People’s Republic. No one could be detained for more than 48 hours without court orders.
+*1947 - 4 Dec*: The People’s Republic of Bulgaria adopted a new constitution. Principles - state direction of the economy based on planning. Private property was allowed, as long as it was acquired honestly and not used against society. The Bulgarians got the right to labour, vacation, education and pension. Right to assembly and formation of organizations was allowed, as long as it was not against the goals of the People’s Republic. No one could be detained for more than 48 hours without a court order.
 
 *1947 - Dec*: Started mass nationalization in the industrial and financial sector.
 
@@ -415,7 +416,7 @@ Establishment of the communist regime and its opposition
 
 *1948 - Dec*: 5-th congress of the Bulgarian Worker’s Party. It officially became the Bulgarian Communist Party. The goal set was to build socialsm as a total societal system.
 
-*1948*: The number of detained in the Belene camp alone at the time was 4 500. Approximately 30 000 were resettled.
+*1948*: The number of detained in the Belene camp alone at the time was 4 500. Approximately 30 000 had been resettled.
 
 > *note*: At this time repression started to turn internally on members of the party. The hunt for the “enemy with party ticket” began. This was the result of the break between Stalin and Tito (accused of being a nationalist who didn’t follow the principles of communist internationalism).
 
@@ -439,9 +440,9 @@ Establishment of the communist regime and its opposition
 
 *1952*: The activity of Unit VII of the Directorate “State Security” became regulated with instructions how to conduct investigation and interrogation. This marked an attempt to move from direct physical coercion to other forms of gathering information. The so-called “agents” became the preferred method.
 
-*1952–1956*: Glavlit was created. It was an openly censoring instution, whose goal was to monitor public information in the periodicals, on radio and in theaters.
+*1952–1956*: Glavlit was created. It was an openly censoring institution, whose goal was to monitor public information in the periodicals, on radio and in theaters.
 
-*1953 8 May*: Mitropolit Kiril of Plovdiv was elected for Bulgarian Patriarch. The Constantinople Patriarchate didn’t accept the election, because it had not been preliminary agreed with it. Bulgarian Patrirach officialy recognized in 1961.
+*1953 8 May*: Mitropolit Kiril of Plovdiv was elected for Bulgarian Patriarch. The Constantinople Patriarchate didn’t accept the election, because it had not been preliminary agreed with it. The Bulgarian Patrirach was officialy recognized in 1961.
 
 *1953 - 5 Mar*: Stalin died.
 
@@ -449,27 +450,27 @@ Establishment of the communist regime and its opposition
 
 *1953 5 Sep*: The Belene camp was closed after a decision of Politbureau.
 
-*1954 - 26 Jan*: The position “general secretary of the CC of BCP” was closed, following the advice of the new Soviet leader - Hruschev. Instead it is split in two positions - “prime minister” and “first secretary of the CC of BCP”. Chervenkov became the prime-minister, first secretary - Todor Zhivkov.
+*1954 - 26 Jan*: The position “general secretary of the CC of BCP” was no longer to exist, following the advice of the new Soviet leader - Hruschev. Instead it was split in two positions - “prime minister” and “first secretary of the CC of BCP”. Chervenkov became the prime-minister, first secretary - Todor Zhivkov.
 
 *1954 - 17 Apr*: Valko Chervenkov criticized in a speech “State Security” for trying to put itself above the party and the government.
 
 *1954 - autumn*: Some incarcerated communists were released after receiving a pardon.
 
-*1956 - Feb*: In Moscow at the XX congress of the Communist party of the Soviet Union Hruschev makes a speech sharply criticizing the personality cult and launching a course for destalinization. In private Hruschev accuses Chervenkov of not doing destalinization quickly enough.
+*1956 - Feb*: In Moscow at the XX congress of the Communist party of the Soviet Union Hruschev made a speech sharply criticizing the personality cult and launching a course for destalinization. In private Hruschev accused Chervenkov of not doing destalinization quickly enough.
 
 *1956 - Apr*: At a plenary session of the CC of BCP Zhivkov attacked Chervenkov for “personality cult”. Chervenkov stepped down as a prime minister.
 
-> *note*: Initially party members at places misperceived this call for destalinization as desire for larger changes. As a result an article in “Rabotnichesko delo” sets the straight line.
+> *note*: Initially party members at places misperceived this call for destalinization as desire for deeper changes. As a result an article in “Rabotnichesko delo” had to set the straight line.
 
 *1956 - autumn*: The Belene camp was reopened, following the events in Hungary.
 
 *1958–1959*: Sporadic initiatives to ban Muslim clothing in some parts of the country.
 
-*1959 - Dec*: The Ministry of health and social services issues a note outlawing circumcision performed not by doctors and outside hospitals.
+*1959 - Dec*: The Ministry of health and social services issued a note outlawing circumcision performed not by doctors and outside hospitals.
 
 *1959 - 27 Aug*: The Belene camp and some other prison camps were officially closed after a decision of Politbureau. At the time in the camp there were 276 people.
 
-*1959*: The committee of the active fighters against fascism was created. A system of privilleges is created for the “active fighters”. In this way Zhivkov wins additional support within the party.
+*1959*: The committee of the active fighters against fascism was created. A system of privilleges was established for the “active fighters”. In this way Zhivkov won additional support within the party.
 
 *1959*: Administrative reform that allowed Zhivkov to install his own loyal people at many of the new positions.
 
@@ -501,7 +502,7 @@ Establishment of the communist regime and its opposition
 
 *1971 - 7 Mar*: Patriarch Kiril died. Maksim was elected as the new patriarch.
 
-*1971*: New constitution adopted at a referendum (99,66% for). The infamous Article 1 for the leading role of the Bulgarian Comunist Party in society. The principle of unity of state power - formally the separation of powers was elminated. The State Council was created. Its powers were higher than those of the National Assembley. Private property was not mention (there was “personal property”).
+*1971*: New constitution adopted at a referendum (99,66% for). The infamous Article 1 for the leading role of the Bulgarian Comunist Party in society. The principle of unity of state power - formally the separation of powers was elminated. The State Council was created. Its powers were higher than those of the National Assembley. Private property was not mentioned (there was “personal property”).
 
 *1972*: Another internal plot against Zhivkov was prevented.
 
@@ -521,7 +522,7 @@ Establishment of the communist regime and its opposition
 
 *1985 - 9 Mar*: A bomb killed 7 people on the Bunovo railway station. It was set up by a pro-Turkish illegal organization.
 
-*1987*: Demonstrations in Ruse against air polution.
+*1987*: Demonstrations in Ruse against the air polution.
 
 *1988 - Jan*: The “Independent union for the protection of human rights in Bulgaria” was created. No communist party member was part of it.
 
@@ -529,14 +530,14 @@ Establishment of the communist regime and its opposition
 
 *1988 - 3 Nov*: “The club for support of glasnost and perestrojka in Bulgaria” was created. Its chairman was Zhelyo Zhelev.
 
-*1989 - 29 May*: Zhivkov made a TV appearance announcing that if Turkey opened its border, the Bulgarian state will not prevent those, who desire to leave. Turkey opened its borders on 3 June and closed them on 21 August. 360 000 left, however by 1990 150 000 returned to Bulgaria.
+*1989 - 29 May*: Zhivkov made a TV appearance announcing that if Turkey opened its border, the Bulgarian state will not prevent those who desire to leave. Turkey opened its borders on 3 June and closed them on 21 August. 360 000 left, however by 1990 150 000 returned to Bulgaria.
 
 Agriculture in Socialist Bulgaria
 ---------------------------------
 
 ### A Snapshot After WWII
 
-> 76% of the population lived in villages and 68% were employed in agriculture. - there were 1 million farms encompassing 13 million fields. - 712 000 farms had less than 50 decares, only 200 farmes had more than 500 decares. - agriculutral cooperatives had already existed before the end of the war, though voluntary and based on private property
+> 76% of the population lived in villages and 68% were employed in agriculture. - there were 1 million farms encompassing 13 million fields. - 712 000 farms had less than 50 decares, only 200 farmes had more than 500 decares. - agriculutral cooperatives had already existed before the end of the war, though voluntary and based on private property.
 
 ### The Collectivization of Land
 
@@ -556,9 +557,9 @@ Agriculture in Socialist Bulgaria
 >
 > *note*: Still another instrument (introduced in 1946) was progressive taxation. An owner who had less than 30 decares, no more than one cow and five sheep paid no personal income tax.
 
-*1947*: Law for decreasing the number of pubs and for limiting booze. Declared that there can be no more than one pub per 700 people. It also lead to abolishing the private trade with alcohol.
+*1947*: Law for decreasing the number of pubs and for limiting booze. Declared that there could be no more than one pub per 700 people. It also lead to abolishing the private trade with alcohol.
 
-*1948 - by*: LCAFs amount to 400, only 8% of farm owners are part of it.
+*1948 - by*: LCAFs amountd to 400, only 8% of farm owners were part of it.
 
 #### The mass collectivization stage
 
@@ -574,9 +575,9 @@ Agriculture in Socialist Bulgaria
 
 *1950 Jul*: Riots in Norhtwestern Bulgaria and near Plovdiv (mostly by women).
 
-*1951 Mar*: A plenary session of CC of BCP condemning the perversions of the party policy in agriculture. However many peasans took it to mean that they could leav the LCAFs which lead to using force and clashes. Some 3 500 were resettled and some 3 500 were imprisoned. Despite that, mass collectivization was temporarily stopped.
+*1951 Mar*: A plenary session of CC of BCP condemning the perversions of the party policy in agriculture. However many peasans took it to mean that they could leave the LCAFs which lead to using force and clashes. Some 3 500 were resettled and some 3 500 were imprisoned. Despite that, mass collectivization was temporarily stopped.
 
-*1956*: A plenary session of CC of BCP leads to a decision to finish land collectivization within maximum 3 years.
+*1956*: A plenary session of CC of BCP lead to a decision to finish land collectivization within maximum 3 years.
 
 > *note*: The authorities tried the carrot, instead of the stick. First, the land for personal posession was exempted from the system of takings. Second, members of LCAFs would receive agricultural pension (starting from 1957). Third, the so called “kulaks” who had been persecuted before that would be allowed to become members of the cooperative (but without the right to occupy management positions). Fourth, inefficient LCAFs would receive state subsidies. As a result the collectivization of land was finished by the end of the 1950s.
 
@@ -586,16 +587,16 @@ Agriculture in Socialist Bulgaria
 
 ### The Concentration of Agricultural Farms
 
-*1970 Apr*: A decision was made to create “agrarian-industrial complexes” and “industrial-agrarian complexes”. Within a few month approximately 800 LCAFs were united in 161 agrarian-industrial complexes and industrial-agrarian comlexes. The average complex had an area of 274 000 decares and 6 500 workers. This horizontal integration had to be followed by vertical integration (according to a decision in 1973) but this didn’t happen.
+*1970 Apr*: A decision was made to create “agrarian-industrial complexes” and “industrial-agrarian complexes”. Within a few month approximately 800 LCAFs were united in 161 agrarian-industrial complexes and industrial-agrarian complexes. The average complex had an area of 274 000 decares and 6 500 workers. This horizontal integration had to be followed by vertical integration (according to a decision in 1973) but this didn’t happen.
 
 Industry and Finance in Socialist Bulgaria
 ------------------------------------------
 
-> *note*: The costs of WWII (including military actions, destructions from bombings, reparations to Greece and Yugoslavia, investment oregone in newly captured lands, debt claims to Germany, delivery of supplies to the Soviet army) amounted to 372 billion levs (\~ 825 million dollars) with a national income for 1945 of 141 billion levs. In 1945 the national income was 50% of its 1943 level.
+> *note*: The costs of WWII (including military actions, destructions from bombings, reparations to Greece and Yugoslavia, investment foregone in newly captured lands, debt claims to Germany, delivery of supplies to the Soviet army) amounted to 372 billion levs (\~ 825 million dollars) with a national income for 1945 of 141 billion levs. In 1945 the national income was 50% of its 1943 level.
 >
 > After the end of the war direct taxes were increased 8 times.
 >
-> In 1947 all banknotes of 200–5000 levs were removed from circulation. In exchange owners were given in cash banknotes of smaller denominations of up to 2 000 levs. The others were put in bank deposits (up to 15 000 levs were untaxed, up to 200 000 levs -approximately 400 dollars - were taxed 25%, above 2 million levs were taxed by 70%) Money supply was decreased from 70 billion levs to 21 billion levs.
+> In 1947 all banknotes of 200–5000 levs were removed from circulation. In exchange owners were given in cash banknotes of smaller denominations of up to 2 000 levs. The others were put in bank deposits (up to 15 000 levs were untaxed, up to 200 000 levs - approximately 400 dollars - were taxed 25%, above 2 million levs were taxed by 70%). Money supply was decreased from 70 billion levs to 21 billion levs.
 >
 > In May 1947 a law transferred the property of all German and Hungarian enterprises in Bulgaria to the Soviet Union. The transfer included only the assets and not the obligations of the enterprises, which fell on the Bulgarian side. The assets amounted to \~ 1,5 billion levs.
 
@@ -611,7 +612,7 @@ Industry and Finance in Socialist Bulgaria
 
 > Many new powerplants were constructed - near Sofia, Pernik, Dimitrovgrad. The metalurgical plant in Pernik was constructed. The chemical plant in Dimitrovgrad was constructed.
 >
-> *note*: In this period the authorities relied a lot not on material incentives but on building a new socialist work ethos and immaterial rewards. It marks the rise of the so called “brigadir movement”. There were \~ 300 000 brigadirs in 1949–1950.
+> *note*: In this period the authorities relied a lot not on material incentives but on building a new socialist work ethos and immaterial rewards. It marked the rise of the so called “brigadir movement”. There were \~ 300 000 brigadirs in 1949–1950.
 
 *1951 - by*: Trade with Western countries had a share of 6,9% (17,9% in 1949).
 
